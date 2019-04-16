@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8035867093215229",
+          enable_page_level_ads: true
+     });
+</script>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel ='stylesheet' type='text/css'>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <title>All Indian Newspapers</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">All Indian Newspapers</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://www.mobmela.com/about-us/">About</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link" href="http://www.mobmela.com/privacy-and-policy/">Privacy Policy</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link" href="http://www.mobmela.com/terms-and-conditions/">Terms
+</a>
+      </li>
+
+ <li class="nav-item">
+        <a class="nav-link" href="http://www.mobmela.com/contact-us/">Contact Us</a>
+      </li>
+
+
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          All newspapers sites
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="www.indiapress.org">indiaPress</a>
+          <a class="dropdown-item" href="www.w3newspapers.com/india">W3 Newspapers</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="www.allindiamnewspapers.com">all Newspapers</a>
+        </div>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mm -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8035867093215229"
+     data-ad-slot="1332334526"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="news">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+<h2> About Indian Newspapers</h2>
+<p>First real paper in India was The Bengal Gazette. It began in 1780 under the British Raj by James Augustus Hickey. Different papers, for example, The India Gazette, The Calcutta Gazette, The Madras Courier (1785), The Bombay Herald (1789) and so on before long pursued. These papers conveyed updates on the regions under the British standard. The Bombay Samachar, established in 1822 and imprinted in Gujarati is the most seasoned paper in Asia still in print. On May 30, 1826 Udant Martand (The Rising Sun), the main Hindi-language paper distributed in India, began from Calcutta (presently Kolkata), distributed each Tuesday by Pt. Jugal Kishore Shukla. 
+
+Paper deal in the nation expands each year. By 2007, 62 of the world's smash hit paper dailies were distributed in China, Japan, and India. India devoured 99 million paper duplicates starting at 2007—making it the second biggest market on the planet for papers. As per the 55th report of The Registrar of Newspapers for India (RNI), the all out flow of papers in India expanded by 8.23% amid the period 2010-11. Indian Readership Survey (IRS) says, the print news media comes to more than 250 million perusers. These tremendous numbers, the review recommends, speak to a chain of development, driven both by extending proficiency and improved expectations for everyday comforts.</p>
+</div>
+</div>
+</div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mm -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8035867093215229"
+     data-ad-slot="1332334526"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="top">
+<h2> Top Indian Newspapers </h2>
+<hr style="width:40%";>
+</div>
+<div class="pep">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="http://www.suntelematics.com/wp-content/uploads/2017/04/Times-of-India-Logo.png" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Times Of India</h5>
+    <p class="card-text">Read news about the times of india.</p>
+   <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+  Read Newspaper
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Times Of India</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://www.timesofindia.com" allowfullscreen></iframe>
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-0bf57f3d7a87bc5ebc4203ff27f76b73" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">The Hindu</h5>
+    <p class="card-text">Read news about the Hindu Newspaper.</p>
+    <a href="https://www.thehindu.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://aakarinnovations.com/wp-content/uploads/2018/03/Hindustan-Times-Logo-PNG-03118.png" class="card-img-top" alt="..." width="200px"; height="150px";>
+  <div class="card-body">
+    <h5 class="card-title">Hindustan Times</h5>
+    <p class="card-text">Read news about the Hindustan Times.</p>
+    <a href="https://www.hindustantimes.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="http://1.bp.blogspot.com/-4Afy-Hth6dQ/TvSRSFA6HBI/AAAAAAAAD5w/K1A5sM5twAs/s1600/Dainik%2BBhaskar%2BLogo.jpg" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Dainik Bhaskar</h5>
+    <p class="card-text">Read news about the Dainik Bhaskar</p>
+    <a href="https://www.bhaskar.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="peep">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="http://www.ranklogos.com/wp-content/uploads/2016/09/Hindi-News-India-Dainik-Jagran-Logo.png" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Dainik Jagran</h5>
+    <p class="card-text">Read news about Dainik Jagran newspapers.</p>
+    <a href="https://www.jagran.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://fbinstantarticles.files.wordpress.com/2016/08/indian-express-logo.png"class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Indian Express</h5>
+    <p class="card-text">Read news about the indian Express newspaper.</p>
+    <a href="https://www.indianexpress.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://pbs.twimg.com/profile_images/2478381380/n2h7o915s42otnqscgro_400x400.jpeg" class="card-img-top" alt="..." width="200px"; height="150px";>
+  <div class="card-body">
+    <h5 class="card-title">Economic Times</h5>
+    <p class="card-text">Read news about the Economic Times.</p>
+    <a href="www.economictimes.com" class="btn btn-primary">Read Newspaper</a>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://spiderimg.amarujala.com/assets/images/2018/01/19/750x506/amar-ujala-logo_1516333530.jpeg" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Amar Ujala</h5>
+    <p class="card-text">Read news about the Amar Ujala newspaper.</p>
+     <a href="www.amarujala.com"  class="btn btn-primary">Read Newspaper</a>
+
+  </div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="peeep">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://himalayanrocketstove.com/wp/wp-content/uploads/2016/04/Tribune-logo.jpg" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">The Tribune</h5>
+    <p class="card-text">Read news about the Tribune newspaper.</p>
+<a href="https://www.tribuneindia.com" class="btn btn-primary">Read Newspaper</a>
+
+    
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="https://www.afaqs.com/all/news/images/news_story_grfx/2017/02/49809/Patrika-logo.jpg"class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Rajhasthan Patrika</h5>
+    <p class="card-text">Read news about the Rajhasthan Patrika.</p>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-xl">Read Newspaper</button>
+
+<div class="modal fade bd-example-modal-xl" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+       <div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://www.patrika.com/" allowfullscreen></iframe>
+</div>
+
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="http://www.albionmill.org.uk/wp-content/uploads/2015/05/The-Telegraph-logo.png" class="card-img-top" alt="..." width="200px"; height="150px";>
+  <div class="card-body">
+    <h5 class="card-title">The Telegraph</h5>
+    <p class="card-text">Read news about the telegraph newspaper.</p>
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+  Read Newspaper
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog .modal-dialog " role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">The Telegraph</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://www.thetelegraph.com/" allowfullscreen></iframe>
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="card" style="width: 18rem;">
+  <img src="http://www.ranklogos.com/wp-content/uploads/2012/08/Deccan_Chronicle.jpg" class="card-img-top" alt="..." width="200px"; height="150px">
+  <div class="card-body">
+    <h5 class="card-title">Deccan Chronicle</h5>
+    <p class="card-text">Read news about the Deccan Chronicle.</p>
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalScrollable">
+  Read Newspaper
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalScrollableTitle">Deccan Chronicle</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://www.deccanchronicle.com/" allowfullscreen></iframe>
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="dis">
+<p><u> Disclaimer - All the above logos,links  and webpages belongs to their respective owners.</u></p>
+</div>
+<div class="ab">
+<h2>Newspapers by States & languages </h2>
+<hr style="width:40%">
+</div>
+<div class="stat">
+<div class="container-fluid">
+<div class="row">
+<div class="col=md-12>
+ 
+ <a href="http://allindiannewspapers.com/english/"  class="btn btn-primary">English</a>
+<a href="http://allindiannewspapers.com/hindi/"  class="btn btn-primary">Hindi</a>
+ <a href="http://allindiannewspapers.com/andhrapradesh/"  class="btn btn-primary">Andhra Pradesh</a>
+
+ <a href="http://allindiannewspapers.com/assam/"  class="btn btn-primary">Assam</a>
+ <a href="http://allindiannewspapers.com/bihar/"  class="btn btn-primary">Bihar</a>
+<a href="http://allindiannewspapers.com/delhi-newspapers/" class="btn btn-primary">Delhi</a>
+
+<a href="http://allindiannewspapers.com/goa/"  class="btn btn-primary">Goa</a>
+
+
+<a href="http://allindiannewspapers.com/gujrat/"  class="btn btn-primary">Gujrat</a>
+
+<a href="http://allindiannewspapers.com/jammukashmir/"  class="btn btn-primary">Jammu Kashmir</a>
+
+
+<a href="http://allindiannewspapers.com/karnataka/"  class="btn btn-primary">Karnataka</a>
+<a href="http://allindiannewspapers.com/karnataka/"  class="btn btn-primary">Kerala</a>
+
+
+<a href="http://allindiannewspapers.com/madhyapradesh/"  class="btn btn-primary">Madhya pradesh</a>
+<a href="http://allindiannewspapers.com/maharashtra/"  class="btn btn-primary">Maharashtra</a>
+<a href="http://allindiannewspapers.com/rajasthan/"  class="btn btn-primary">Rajhasthan</a>
+<a href="http://allindiannewspapers.com/tamilnadu/"  class="btn btn-primary">Tamil Nadu</a>
+
+<a href="http://allindiannewspapers.com/westbengal/"  class="btn btn-primary">West Bengal</a>
+<a href="http://allindiannewspapers.com/uttarpradesh/"  class="btn btn-primary">Uttar Pradesh</a>
+
+
+<div class="tn">
+<h2> Top Indian News Channels </h2>
+<hr style="width:50%">
+</div>
+<div class="ut">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4">
+<div class="card" style="width: 18rem;">
+  <iframe  src="https://www.youtube.com/embed/A3vC1XWOBx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">India Tv</h5>
+    <p class="card-text">India Tv is one of the top most viewed news channels of india.</p>
+    <a href="https://www.indiatvnews.com/" class="btn btn-primary">Read News</a>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card" style="width: 18rem;">
+  <iframe  src="https://www.youtube.com/embed/BcXXIvgQMyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">ABP News</h5>
+    <p class="card-text">ABP news is one of the top most viewed news channels of india.</p>
+    <a href="https://abpnews.abplive.in/" class="btn btn-primary">Read News</a>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card" style="width: 18rem;">
+  <iframe  src="https://www.youtube.com/embed/smZRzehsXHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="card-body">
+    <h5 class="card-title">Aaj Tak</h5>
+    <p class="card-text">Aaj Tak is one of the top most viewed news channels of india.</p>
+    <a href="https://aajtak.intoday.in/" class="btn btn-primary">Read News</a>
+  </div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div  class="footer">
+<h6> Disclaimer - All the above logos,trademarks,websites,links,videos belongs to their respective owners.We do not hold any rights.</h6>
+<h6> Site designed by Abhinav Ojha. </h6>
+</div>
+
+
+<style>
+.news{
+padding:25px;
+line-height:2.0em;
+font-size:18px;
+background-color:#f9f9f9;
+}
+.h2{
+font-weight:bold;
+font-size:25px;
+padding:15px;
+}
+.pep{
+padding:30px;
+}
+.top{
+padding:25px;
+font-weight:bold;
+text-align:center;
+}
+.hr{
+width:40%;
+}
+.peep{
+padding:30px;
+}
+.peeep{
+padding:30px;
+}
+.dis{
+padding:30px;
+font-size:18px;
+line-height:2.0em;
+text-align:center;
+color:#222222;
+font-weight:bold;
+font-style:italic;
+}
+.ab{
+text-align:center;
+font-size:25px;
+font-weight:bold;
+color:#222222;}
+
+.stat{
+padding:30px;
+line-height:3.5em;
+word-spacing:5px;
+}
+.footer{
+text-align:center;
+line-height:2.0em;
+font-size:15px;
+padding:20px;
+
+}
+.ut{
+padding:30px;
+background-color:#f9f9f9;
+line-height:1.5em;
+width:100%;
+}
+.tn{
+padding:30px;
+text-align:center;
+}
+</style>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
